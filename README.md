@@ -1,11 +1,13 @@
-# 💾 Banco de Dados - ONG de Resgate Animal
+<div align="center">
+  
+<h1 style="color:#20B2AA;" > Banco de Dados - ONG de Resgate Animal</h1>
 
 Este projeto implementa o banco de dados de um sistema de gestão para uma **ONG de Resgate e Adoção de Animais**.
 
 O objetivo principal desta entrega é demonstrar a capacidade de **criação e manipulação dos dados** usando comandos SQL (DML e DDL).
 
 ---
-
+</div>
 ## 1. O Nosso Modelo de Dados
 
 O projeto da ONG foi modelado com 5 tabelas interligadas:
